@@ -1,4 +1,5 @@
 import requests
+#Nakonec-to!!!
 
 url_sh = 'https://akabab.github.io/superhero-api/api/'
 
