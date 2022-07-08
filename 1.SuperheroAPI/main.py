@@ -1,5 +1,4 @@
 import requests
-# from pprint import pprint
 
 url_sh = 'https://akabab.github.io/superhero-api/api/'
 
